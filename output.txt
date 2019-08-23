@@ -1,0 +1,2165 @@
+ADOBE® ACROBAT®   HELPLast updated 6/13/2018
+Legal notices
+Legal notices
+For legal notices, see 
+http://help.adobe.com/en_US/legalnotices/index.html
+.iii
+Last updated 6/13/2018
+Contents
+Chapter 1: Introduction to Acrobat
+New features summary
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1New features summary | Acrobat 2017
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . .
+8Create PDFs with Acrobat
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+21Edit text in PDFs
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+24Rotate, move, delete, and renumber PDF pages
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . 
+30Convert or export PDFs to other file formats
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . 
+37Navigating PDF pages
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+41Workspace basics
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+46System Requirements for Adobe Acrobat Pro DC, Acrobat Standard DC
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+57System Requirements for Adobe Acro
+bat Pro 2017, Acrobat Standard 2017
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+60New features summary
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+62Chapter 2: Workspace
+Workspace basics
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+89Viewing PDFs and viewing preferences
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . 
+100
+Navigating PDF pages
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+109
+Adjusting PDF views
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+114
+Keyboard shortcuts
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+119
+Connect your online storage accounts to access files in Acrobat
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+127
+Grids, guides, and measurementsin PDFs
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . 
+128
+Flash Player needed | Acrobat, Acrobat Reader
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . 
+131
+Display PDF in browser | Acrobat, Acrobat Reader
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . 
+132
+Updating Acrobat and using Adobe Digital Editions
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . 
+137
+Opening PDFs
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+139
+Asian, Cyrillic, and right-to-left text in PDFs
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . 
+140
+Acrobat in Mac OS | Acrobat Pro
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . 
+141
+Access Box files in Acrobat, Acrobat Reader
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . 
+142
+Access Dropbox files in Acrobat, Acrobat Reader
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . 
+145
+Access OneDrive files in Acrobat, Acrobat Reader
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . 
+148
+Access SharePoint files in Acrobat, Acrobat Reader
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . 
+152
+Enable thumbnail preview of PDFs in Windows Explorer
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+155
+Chapter 3: Creating PDFs
+Create PDFs with Acrobat
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+157
+Create PDFs with PDFMaker (Windows)
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . 
+159
+Scan documents to PDF
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+174
+Overview of PDF creation
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+182
+Using the Adobe PDF printer
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . 
+184
+Converting web pages to PDF
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . 
+188
+PDF fonts
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+193
+Creating PDFs with Acrobat Distiller 
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . 
+195
+Adobe PDF conversion settings
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . 
+199
+ivACROBAT DC
+Contents
+Last updated 6/13/2018
+Chapter 4: Editing PDFs
+Edit text in PDFs
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+213
+Edit images or objects in a PDF
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . 
+219
+Edit scanned PDFs
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+222
+Enhance document photos captured using a mobile camera
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+224
+Optimizing PDFs
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+225
+PDF properties and metadata
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . 
+230
+Links and attachments in PDFs
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . 
+234
+PDF layers
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+238
+Page thumbnails and bookmarks in PDFs
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . 
+243
+PDFs converted to web pages
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . 
+248
+Setting up PDFs for a presentation
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . 
+248
+PDF articles
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+251
+Geospatial PDFs
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+254
+Applying actions and scripts to PDFs
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . 
+257
+Change default font for fallback in PDF editing and Add Text
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+260
+Chapter 5: Forms
+PDF forms basics
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+262
+Creating and distributing PDF forms
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . 
+263
+Filling in PDF forms
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+268
+PDF form field properties
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+272
+Fill and sign PDF forms
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+282
+Setting action buttons in PDF forms
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . 
+285
+Publishing interactive PDF webforms
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . 
+289
+PDF form field basics
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+292
+PDF barcode form fields
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+296
+Collecting and managing PDF form data
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . 
+300
+About forms tracker
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+303
+Chapter 6: Combining files
+Combine or merge files into single PDF
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . 
+304
+Rotate, move, delete, and renumber PDF pages
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . 
+306
+Add headers, footers, and Bates numbering to PDFs
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . 
+314
+Crop PDF pages
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+318
+Add watermarks to PDFs
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+320
+Add backgrounds to PDFs
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+322
+Working with component files in a PDF Portfolio
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . 
+324
+Publish and share PDF Portfolios
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . 
+326
+Overview of PDF Portfolios
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . 
+328
+Create and customize PDF Portfolios
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . 
+331
+Chapter 7: Reviews and commenting
+Mark up text with edits
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+334
+Preparing for a PDF review
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+337
+Starting a PDF review
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+340
+Hosting shared reviews on SharePoint or Office 365 sites
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+343
+vACROBAT DC
+Contents
+Last updated 6/13/2018
+Participating in a PDF review   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 347
+Use annotation and drawing markup tools to add comments in PDFs
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+350
+Sharing PDFs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+361
+Adding a stamp to a PDF
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+362
+Approval workflows
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+364
+Send and track large files online
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . 
+366
+Managing comments | view, reply, print
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . 
+369
+Importing and exporting comments
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . 
+374
+Tracking and managing PDF reviews
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . 
+376
+Chapter 8: Saving and exporting PDFs
+Saving PDFs
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+381
+Convert or export PDFs to other file formats
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . 
+383
+File format options for PDF export
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . 
+386
+Reusing PDF content
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+396
+Chapter 9: Security
+Enhanced security setting for PDFs
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . 
+399
+Securing PDFs with passwords
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . 
+400
+Digital IDs
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+405
+Securing PDFs with certificates
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . 
+414
+Opening secured PDFs 
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+418
+Removing sensitive content from PDFs
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . 
+419
+Setting up security policies for PDFs
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . 
+426
+Choosing a security method for PDFs
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . 
+432
+Security warnings when a PDF opens
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . 
+434
+Securing PDFs with Adobe LiveCycle RightsManagement ES
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+436
+Protected View feature for PDFs (Windows only)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . 
+437
+Overview of security in Acrobat and PDFs
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . 
+438
+JavaScripts in PDFs as a security risk
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . 
+438
+Attachments as security risks in Acrobat DC and Acrobat Reader DC
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+439
+Allow or block links to the Internetin PDFs
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . 
+441
+Chapter 10: Electronic signatures
+Sign PDF documents
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+442
+Capture your signature on mobile and use it everywhere
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+444
+Send PDF documents for signature
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . 
+445
+Certificate-based signatures
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . 
+449
+Validating digital signatures
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . 
+455
+Manage trusted identities
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+462
+Send PDF documents for signature
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . 
+463
+Chapter 11: Printing
+Basic PDF printing tasks
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+467
+Print Booklets and PDF Portfolios
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . 
+476
+Advanced PDF print settings
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . 
+478
+Print to PDF
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+485
+viACROBAT DC
+Contents
+Last updated 6/13/2018
+Printing color PDFs (Acrobat Pro) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 486
+Printing PDFs in custom sizes
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . 
+490
+Chapter 12: Accessibility, tags, and reflow
+Create and verify PDF accessibility (Acrobat Pro)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . 
+491
+Accessibility features in PDFs
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . 
+506
+Reading Order tool for PDFs (Acrobat Pro)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . 
+508
+Reading PDFs with reflow and accessibility features
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . 
+517
+Edit document structure with the Content and Tags panels (Acrobat Pro)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+523
+Creating accessible PDFs
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+531
+Chapter 13: Searching and indexing
+Creating PDF indexes
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+536
+Searching PDFs
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+542
+Chapter 14: Multimedia and 3D models
+Add audio, video, and interactive objects to PDFs
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . 
+549
+Adding 3D models to PDFs (Acrobat Pro)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . 
+552
+Displaying 3D models in PDFs
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . 
+554
+Measuring 3D objects in PDFs
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . 
+558
+Setting 3D views in PDFs
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+561
+Enable 3D content in PDF
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+563
+Adding multimedia to PDFs
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . 
+565
+Commenting on 3D designs in PDFs
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . 
+568
+Playing video, audio, and multimedia formats in PDFs
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. 571
+Add comments to videos (Acrobat Pro)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . 
+573
+Chapter 15: Color management
+Keeping colors consistent
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+574
+Color settings
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+576
+Color-managing documents
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . 
+578
+Working with color profiles
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . 
+580
+Understanding color management
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . 
+583
+1Last updated 6/13/2018
+Chapter 1: Introduction to Acrobat
+New features summary
+February 2018 release of Acrobat DC
+Compare files enhancement
+ Accessibility improvements
+Annotations enhancement
+Forms enhancement
+Print production enhancement
+ OCR improvement
+Access tools center from the right-hand pane
+Support for additional OCR languages in Export PDF app in Reader
+Compare files enhancement
+ Available in: Acrobat DC Continuous
+Hyphenation related fixes
+Previously, false diffs were reported due to incorrect hyphenation categorization - false diffs of hyphenated words were 
+reported whenever they reach the end of a line while doing insertion or deletion during editing. This has been fixed 
+now.
+The example below covers all the cases related to the hyphenation fixes.
+Acrobat DC with Adobe Document Cloud services is the complete PDF solution for working anywhere with your 
+most important documents. All-new Acrobat DC is reimagin
+ed with a simple user experience. The new Tools Center 
+offers quick access to the tools you use most, while elegant new tool experiences work consistently across desktop, 
+web, and mobile—including touch-enabled devices.
+2Introduction to Acrobat
+Last updated 6/13/2018
+Accessibility improvements
+ Available in: Acrobat DC Continuous
+Tags and tool names of the Reading Order tool are now consistent.
+•The “Touch up Reading Order” tool is renamed to the “Reading Order” tool.
+•The "Text" in the Reading Order tool is renamed to "Text/Paragraph".
+•The "Background" in the Reader Order tool is renamed to "Background/Artifact".
+Access the Reading Order tool from the tag tree
+You can now access the Reading Order tool directly from the tag tree. Choose 
+Tags
+ in the left navigation pane, right-
+click any tag and then choose
+ Reading Order
+.Bulk edit tags in the tag tree
+You can now edit the properties of multiple tags at a time. Select the tags that you want to edit and then choose 
+Properties dialog option from the right-click context menu.
+3Introduction to Acrobat
+Last updated 6/13/2018
+In the tags panel, select contiguous or non-contiguous tags, right-click and choose 
+Properties
+.Change the type, title, and other properties as required, and then click 
+Close
+.Create notes and reference tags from the Reading Order tool
+You can now create notes and reference tags from the 
+Reading Order
+ tool.
+From the Reading Order tool:
+4Introduction to Acrobat
+Last updated 6/13/2018
+1In the tags panel, right-click any tag and choose
+ Reading Order
+.2Select some content that you want to tag as Note or Reference, and then click 
+Note 
+or Reference
+.From the Order panel:
+1Choose 
+Order
+ panel in the left-hand pane.
+2Right-click the content in the panel, and then choose 
+Tag as Reference
+ or 
+Tag as Note
+.5Introduction to Acrobat
+Last updated 6/13/2018
+Annotations enhancement
+ Available in: Acrobat DC Continuous
+Copy content of text-based annotations
+A new 
+Copy Text
+ option is now available in the right-click context menu of text-based annotations with highlight, 
+underline, or strikeout.
+6Introduction to Acrobat
+Last updated 6/13/2018
+Forms enhancement
+ Available in: Acrobat DC Continuous
+An option to clear the selected image from the image form field
+Using the new 
+Clear Image
+ option, you can easily clear the selected image from an image field in a form.
+ 1Click the image field form which you want to clear the image. The Select Image dialog box is displayed.
+2Click 
+Clear Image
+, and then click 
+OK.Print production enhancement
+ Available in: Acrobat DC Continuous
+Multiple objects selections with Output Preview
+You can now select multiple objects when the Output Preview dialog is open.
+To enable this feature, go to 
+Edit > Preferences > Page Display
+, and then select 
+Use Shift + Click for Multiple 
+Selection with Output Preview
+ check box under the Page Content and Information section.
+To select multiple objects, use 
+Shift + Click
+. To add a sticky note containing the color values, use 
+Alt + Click
+ (on 
+Windows) or 
+Option + Click
+ (on Mac).
+Note
+: By default, the preference is disabled.
+OCR improvement
+ Available in: Acrobat DC Continuous
+The accuracy of text recognition (OCR) on the scanned files with a dark background has been improved significantly.
+7Introduction to Acrobat
+Last updated 6/13/2018
+Access tools center from the right-hand pane
+ Available in: Acrobat DC Continuous
+You can now access tools center from the right-hand pane using the new 
+More Tools
+ option.
+Support for additional OCR languages in Export PDF app in Reader
+ Available in: Acrobat Reader DC Continuous, Acrobat Reader DC Classic
+Support for the following additional OCR languages is 
+added in the Export PDF app in Acrobat Reader DC:
+Bulgarian
+Catalan
+Croatian
+Czech
+
+Estonian
+German (Switzerland)
+Greek
+
+Hebrew
+Hungarian
+Hungarian
+Korean
+Latvian
+Lithuanian
+
+Macedonian
+Maltese
+Norwegian (Norway)
+
+Polish
+Romanian
+Russian
+Serbian
+Simplified Chinese
+Slovak
+
+Slovenian
+Traditional Chinese
+Turkish
+
+Ukrainian
+8Introduction to Acrobat
+Last updated 6/13/2018
+To see the list of supported languages: Open a PDF in Acrobat Reader DC and choose 
+Export PDF
+ in the Tools pane, 
+and then click 
+Change
+ next to “Document Language”. The OCR Settings dialog box is displayed that lists all the 
+supported languages.
+New features summary | Acrobat 2017
+Acrobat 2017
+ is the latest perpetual desktop version of Acrobat. It simplifies everyday PDF tasks and includes many 
+productivity enhancements when work
+ing with PDFs from your desktop.
+Acrobat DC
+ is the latest subscription version of Acrobat. With Acrobat DC, you always have the most recent version 
+of Acrobat software with the newest product innovations and tools for desktop and mobile. It includes all the 
+functionality of Acrobat 2017, plus you never have to purchase upgrades again.
+When you 
+subscribe to Acrobat DC
+ enhanced with Document Cloud services, you pay a low monthly fee to get ongoing 
+access to the latest PDF tools across desktop, browser and mobile devices to help you accomplish more when working 
+with documents in the office or on the go:
+•Use the Acrobat Reader mobile app to create, edit, and sign PDFs
+•Create PDFs files from Microsoft Word, Excel and PowerPoint documents, images or photos from your mobile
+
+device or online
+•Convert PDFs into editable Microsoft Word, Excel, PowerPoint, or RTF files from your mobile device or online
+•Edit text in a PDF on your iPad
+•Organize pages in PDF files from your iOS or Android tablet or smartphone.
+•Turn your mobile device camera into a portable scanner
+•Turn Adobe Photoshop (PSD), Illustrator (AI), or InDesign (INDD) files into PDFs
+•Combine multiple files into a single PDF
+•Get signatures from others, track responses, and archive signed documents
+•Send, track and confirm receipt of important documents, without overnight deliveries
+•Store and access files securely online with 100GB of storage
+What's new in Acrobat 2017
+Easily compare files
+With the all-new Compare Files tool, you can now quickly and accurately detect differences between two versions of a 
+PDF file.
+•Compare two versions of a document to detect all text and image changes.
+•View an easy-to-scan results summary that provides an overview of file differences.
+•Easily move through the document to review each difference using a side-by-side or single-page view.
+•Filter the changes to quickly see all text, image, annotation, formatting, header/footer, or background differences.
+1Choose
+ Tools
+ > Compare Files
+.Note
+: This tool was previously named Compare Documents.
+9Introduction to Acrobat
+Last updated 6/13/2018
+2Click 
+Select File
+ at left to choose the older file version you want to compare. Click 
+Select File
+ at right to choose the 
+newer file version you want to compare.
+3Click 
+Compare
+.4Acrobat displays the results in a new document that provides an easy-to-scan summary of all file differences.
+10Introduction to Acrobat
+Last updated 6/13/2018
+5Click the 
+Go to First Change
+ button to begin reviewing each file difference in detail.
+For more information, see 
+Compare two versions of a PDF file
+ .Tabbed interface for viewing multiple PDFs
+Opening multiple PDFs in the same session now opens the PDFs as tabs in the same application window. You can 
+switch among the tabs
+ at the top of the window by clicking on the file name shown in each tab. A previous button and 
+a next button are displayed at the top right to let you navigate through document tabs when the number of open PDFs 
+no longer fit in the document view.
+Acrobat auto resizes tabs when the documents don’t fit in the view window. All the opened files are now listed towards 
+the bottom of the
+ Window
+ menu. To switch to a particular opened document, either you can click the tab for the doc 
+or choose its filename from the
+ Window
+ menu.
+11Introduction to Acrobat
+Last updated 6/13/2018
+By default, the tabbed interface is ON. To view each PDF 
+you open in a different application window instead of a new 
+tab, clear the
+ Open documents as new tabs in the same window (requires restart)
+ checkbox
+ under Edit > Preferences 
+>G
+eneral. Then restart Acrobat.
+Create new bulleted lists
+Acrobat now shows bulleted list and numbered list controls in the Edit PDF Format panel. You can now create new 
+bulleted and numbered lists, convert an existing paragraph a bulleted or numbered list, revert lists to regular text, and 
+
+convert lists from one list type to another. Acrobat now also detects additional bulleted and numbered list types
+ in your 
+document, if any, and shows them at the bottom of the related list pull-down menu, separated by a thin gray line.
+12Introduction to Acrobat
+Last updated 6/13/2018
+You can also use your keyboard to add a list item. For example, before a paragraph, you can type number ‘a’ followed 
+by the closing parenthesis ‘)’ and then add one space. Acrobat automatically inserts a numbered list starting with “a)”.
+Easier scan to PDF
+The Scanner tool now has a new simplified interface. The new interface makes it easy for you to quickly scan paper 
+documents to PDFs using the default settings or a preset option. It also makes it easy for you to fine-tune scan settings 
+from the same interface using radio buttons, a gear icon, or both.
+To access the Scanner tool, go to
+ Tools > Create PDF > Scanner.
+13Introduction to Acrobat
+Last updated 6/13/2018
+For more information, see
+ Scan documents to PDF
+ .Use digital IDs
+The all-new Certificates tool makes it easier than ever to digitally sign, certify, and verify documents with a digital ID.
+•Get set up easily. Find your existing digital IDs from files, smart cards, or USB token devices and configur
+e themeasily for signing.
+•Customize your signature appearance. Add valuable information to your signatures, such as a logo, date, location
+,or signing reason.
+•Use your signature image. Draw your signature or upload
+ a scanned image to add it to your digital identity.
+New digital ID configuration workflows
+You can use existing digital IDs or create new ones. Based on whether a digital ID is available on your machine or not, 
+you will see one of the two workflows described below.
+14Introduction to Acrobat
+Last updated 6/13/2018
+When no digital ID is available
+:1When you create or click a signature field and no digital ID is available, you see the following prompt.
+2Click 
+Configure Digital ID
+. The Configure a Digital ID fo
+r signing dialog is displayed.
+3Select the type of digital ID desired, click 
+Continue
+, and then follow the wizard to create the ID.
+If you select 
+Create a new Digital ID
+, the next set of options are displayed based on your Operating System.
+15Introduction to Acrobat
+Last updated 6/13/2018
+On Windows
+On Mac OS, you see a new option – Save to Apple Keychain
+When one or more digital IDs are found:
+1When you create or click a signature field and one or more valid digital IDs are available for signing, you see the 
+following dialog box to choose your preferred digital ID.
+16Introduction to Acrobat
+Last updated 6/13/2018
+2Select the desired ID and continue with the signing.
+For more information, see 
+Digital IDs
+.Improved tools search
+Use the enhanced tools search in the right-hand pane to quickly find the tool you need to complete a given task.
+Send and manage shared reviews on Mac
+Now you can initiate and participate in SharePoint-based shared reviews on Mac to give and get feedback quickly.
+For more information, see 
+Hosting shared reviews on SharePoint or Office 365 sites
+.17Introduction to Acrobat
+Last updated 6/13/2018
+Select a UI theme
+In addition to the Light Gray theme, Acrobat and Acrobat 
+Reader now has a new Dark Gray theme, which is in line 
+with other Creative Cloud products, such as Photoshop, Illustrator, and Premiere Pro. This theme provides an 
+attractive
+ visual experience, especially when working with rich co
+lors and designs. It also makes cross-application work 
+simpler than ever.
+By default, the theme continues to be Light Gray. To change it to Dark Gray, go to
+ View > Display Theme > Dark Gray.
+Enhanced commenting
+Give and get fast, clear feedback with all-new commenting tools and an intuitive, touch-friendly interface.
+•Customize the comment toolbar to see the features you use.
+•Easily change the color, font, or size of comment text.
+•Easily view and navigate through comments. You can organize comments by page, author, date, type, checkmar
+kstatus, or color. Filters also support quick management of comments.
+•Reply to sticky notes with a single-thread that presen
+ts all replies to an annotation in one conversation.
+18Introduction to Acrobat
+Last updated 6/13/2018
+•Tap on fillable text fields to bring up the soft keyboard on touch-enabled devices.
+•Use keyboard shortcuts for commenting actions, including delete, replace, or add a note
+ to text. When you open the
+Comment tool, the text markup shortcuts are enabled by default.
+•Use the new highlighter pen to mark up scanned documents without needing to run OCR.
+Easily change the color, font or size of comment text
+Easily discover and modify text highlight color - the Color Picker is available on the Comment toolbar.
+Text formatting tools appear automatically for typewriter and text box tools. The moment you click anywhere on a page, 
+the Text Properties pop-up menu appears below the Comment toolbar.
+Easily view and navigate through comments
+Page-based organization in
+ the comments pane.
+19Introduction to Acrobat
+Last updated 6/13/2018
+Reply to Sticky Notes with a single-thread experience
+Each annotation is now equivalent to a conversation and all replies appear like a single-thread experience.
+20Introduction to Acrobat
+Last updated 6/13/2018
+Draw using DirectInk
+Acrobat now supports Microsoft’s new DirectInk technology. It enables you to use your finger or a hardware pen to 
+draw and write more smoothly on PDFs on Windows 10 devices.
+Preview files
+Preview files and open popular tools
+ directly from the Home view.
+ When you click a filename in the recent file list, a 
+details panel appears in the right pane showing a thumbnail preview of the file along with frequently used tools.
+ Click 
+to open a tool or select Remove From Recent to remove a file from the recent file list.
+21Introduction to Acrobat
+Last updated 6/13/2018
+Create PDFs with Acrobat
+There are various ways to create a PDF file using Acrobat. Generate a PDF quickly by using menu commands, dragging-
+and-dropping files onto the Acrobat application icon, or converting clipboard data.
+Note
+: This document provides instructions for Acrobat DC and Acrobat 2017. If you're using Acrobat XI, see
+ Acrobat 
+XI Help
+ .Convert a file to PDF using Acrobat menu commands
+1On the Acrobat File menu, choose 
+Create
+ > PDF From File
+.2In the Open dialog box, select the file that you want to convert. You can browse all file types or select a specific type 
+from the 
+Files Of Type
+ drop-down menu.
+22Introduction to Acrobat
+Last updated 6/13/2018
+Acrobat shows all Microsoft Word documents in the selected folder.
+3Optionally, click 
+Settings
+ to change the conversion options if you're 
+converting an image file to PDF. The options 
+available vary depending on the file type.
+Note
+: The Settings
+ button is unavailable if you choose 
+All Files
+ as the file type or if no conversion settings are 
+available for the selected file type. (For example, the Settings button is unavailable for Microsoft Word and Microsoft 
+Excel files.)
+4Click 
+Open
+ to convert the file to a PDF.
+Depending on the type of file being converted, the authoring application opens automatically, or a progress dialog 
+box appears. If the file is in an unsupported format, a message appears, telling you that the file cannot be converted 
+
+to PDF.
+5When the new PDF opens, choose 
+File
+ > Save
+ or 
+File
+ > Save As, and
+ then select a name and location for the PDF.
+Note
+: When naming a PDF that’s intended for electronic distribution, limit the filename to eight characters (with no 
+spaces) and include the .pdf extension. This action ensures that email programs or network servers don’t truncate the 
+filename and that the PDF opens as expected.
+Drag-and-drop to create PDFs
+This method is best for small, simple files, such as small image files and plain text files, when the balance between file 
+size and output quality is not important. You can use this technique with many other types of files, but you cannot adjust 
+any conversion settings during the process.
+1Select the icons of one or more files in the Windows Explorer or Mac OS Finder.
+2Drag the file icons onto the Acrobat application icon. Or (Windows only) drag the files into the open Acrobat 
+window.
+If a message appears saying that the file could not be opened in Acrobat, then that file type cannot be converted to 
+PDF by the drag-and-drop method. Use one of the other conversion methods for that file.
+23Introduction to Acrobat
+Last updated 6/13/2018
+Note
+: You can also convert PostScript and EPS files to PDF by dragging them onto the
+ Acrobat
+ window or the 
+Acrobat application icon.
+3Save the PDF.
+Note
+: (Windows only) You can also right-click a file in
+ Windows Explorer
+ and select
+ Convert to
+ Adobe PDF
+.Convert clipboard content to PDF
+You can create PDFs from text and images that you copy from applications on Mac OS or Windows.
+1Capture content in the Clipboard:
+•Use the copy command in the applications.
+•Press the 
+PrintScreen
+ key (Windows).
+•Use the Grab utility (
+Applications
+ > 
+Utilities
+ > Grab
+), and choose 
+Edit
+ > Copy
+ to place the content on the 
+clipboard. (Mac OS)
+•In a PDF file, you can select objects using the Edit Object tool (
+Tools
+ > Print Production
+ > Edit Object
+), and 
+then copy the selected objects.
+2In Acrobat, choose 
+File
+ > Create
+ > 
+PDF from Clipboard
+. Or Choose 
+Tools
+ > Create PDF
+ > Clipboard
+ > Create
+.Note
+: The PDF from Clipboard command appears only when content is copied to the Clipboard. If the Clipboard 
+is empty, the command is disabled.
+Create a blank PDF
+You can create a blank PDF, rather than beginning with a file, a clipboard image, or scanning.
+This process can be useful for creating a one-page PDF. For longer, more complex, or heavily formatted documents, it’s 
+
+better to create the source document in an application that offers more layout and formatting options, such as Adobe 
+
+InDesign or Microsoft Word.
+1In Adobe
+ Acrobat, close all open documents.
+2Choose 
+Tools
+ > Create PDF
+ > Blank Page
+ > Create
+. A blank single-page PDF is created.
+Note
+: To add a blank page to an existing PDF, open the PDF and then choose
+ Tools
+ > Organize Pages
+ > Insert
+ > Blank 
+Page
+.Create multiple PDFs from 
+multiple files (Acrobat Pro)
+You can create multiple PDFs from multiple native files, including files of different supported formats, in one operation. 
+This method is useful when you must convert a large number of files to PDF.
+Note
+: When you use this method, Acrobat applies the most recently used conversion settings without offering you 
+access to those settings. If you want to adjust the 
+conversion settings, do so before using this method.
+1Choose 
+File
+ > Create
+ > Create Multiple PDF Files
+.2Choose Add Files > Add Files or Add Folders, and then select the files or folder.
+24Introduction to Acrobat
+Last updated 6/13/2018
+Click Add Files in the dialog box, then choose the files that you want to convert to PDF.
+3Click 
+OK. The Output options dialog box appears.
+4In the Output Options dialog box, specify your target folder and filename preferences, and then click 
+OK.Edit text in PDFs
+Easily correct, update, and add text to PDF files. Reflow paragraphs and correct typos— without returning to your 
+original source document. Use the Add Text tool to fill in noninteractive PDF forms.
+This document provides instructions for Acrobat DC and Acrobat 2017.
+ If you're using Acrobat XI, see 
+Acrobat XI Help
+ .Edit text in a PDF
+The Edit Text & Images tool lets you replace, edit, or add text to a PDF. You can correct typos, change fonts and typeface 
+size, adjust alignment, add superscripts or subscripts, and resize text or paragraphs.
+Open a PDF in Acrobat, and then choose Tools > Edit PDF > Edit.
+You edit a PDF one page at a time. For more extensive editing or to make global formatting changes across the entire 
+
+document, edit the original document. If the original isn’t available, you can save the PDF as a Microsoft Word 
+
+document or PowerPoint presentation. Then edit, and re-create the PDF.
+Video tutorial: edit text and images in a PDF using Acrobat
+Learn how to edit text and images in your PDF files with 
+Acrobat on the desktop, and how to edit PDFs on mobile 
+devices with an Acrobat Pro subscription.
+25Introduction to Acrobat
+Last updated 6/13/2018
+Edit or format text in a PDF
+When you edit text, the text in the paragraph reflows within its text box to accommodate the changes. Each text box is 
+independent, and inserting text in one text block does not push down an adjacent text box or reflow to the next page. 
+ 1Choose Tools
+ > Edit PDF > Edit
+.Outlines identify the text and images you can edit.
+2Select the text you want to edit.
+3Edit the text by doing one of the following:
+•Type new text to replace the selected text, or press Delete to remove it.
+•Manage list items using the list controls
+ (bulleted and numbered) under 
+Format
+ in the right pane. You can create 
+new list items, convert an existing paragraph to a list item, convert an existing list item to a paragraph, and 
+
+convert from one list type to another.
+•Select a font, font size, or other formatting options under Format in the right pane. You can also use the advanced 
+
+format options, such as line spacing, character spacing, horizontal scaling, stroke width, and color.
+Formatting options in the right pane
+26Introduction to Acrobat
+Last updated 6/13/2018
+Note: 
+For legal reasons, you must have purchased a font and have it installed on your system to revise text using that 
+font.You can edit text only if the font used for that text is
+ installed on your system. If the font isn’t installed on your 
+system, but is embedded in the PDF, you can change only the color or font size. If the font is neither installed or 
+embedded, you can't edit any of the text.
+4Click outside the selection to deselect it and start over.
+Add or edit a numbered or bulleted list
+You can add items to a numbered or bulleted list, create new list items, convert an existing paragraph to a list item, 
+
+convert an existing list item to a paragraph, and convert from one list type to another.
+1Choose Tools
+ > Edit PDF > Edit
+.Note: 
+Acrobat detects paragraphs and lists separately. Therefore, both paragraph and list may appear in the same 
+
+bounding box while editing. After you save or save as the changed file and reopen it, the paragraph and list items are 
+
+displayed in separate bounding boxes.
+2Do the following:
+To add or remove items from a numbered or bulleted list:
+•You can add or remove items to the list at all nested levels using the same familiar controls that you us
+e in MSOffice. For example, press 
+Enter
+ at the end of a list item to insert a new row. Press 
+Backspace
+ to remove the new
+row and position the cursor back to the end of the previous list item.
+To create a numbered or bulleted list:
+aPlace the cursor in the document at the location where you want to add a new list.
+bChoose the appropriate list type
+ (bulleted or numbered) under
+ Format
+ in the right pane.
+To convert an existing paragraph to a list item:
+•Place the cursor in the paragraph, and then choose the appropriate list type
+ (bulleted or numbered) unde
+rFormat
+ in the right pane.
+To convert an existing list item to a paragraph:
+cSelect all items in the list. The appropriate list type is highlighted under 
+Format
+ in the right pane.
+deClick the highlighted list type.
+To convert from one list type to another:
+fPlace the cursor in the list item or select all items in the list.
+ghChoose the appropriate list type (bulleted or numbered) under 
+Format
+ in the right pane.
+27Introduction to Acrobat
+Last updated 6/13/2018
+Formatting options in the right pane
+You can also use Keyboard to add a list item. For example, before a paragraph, you can type number ‘a’ followed by 
+the closing parenthesis ‘)’ and then add one space. It adds a numbered list starting with “a)”.
+Add new text to a PDF
+You can add or insert new text into a PDF using any of the fonts installed on the system.
+1Select Tools > 
+Edit PDF
+ > Add Text
+.Open a PDF and then choose Tools > Edit PDF > Add text.
+2Drag to define the width of the text block you want to add.
+3For vertical text, right-click the text box, and choose Make Text Direction Vertical.
+4The Add text tool intelligently detects the following text properties of text close to the point of click:
+•Font name, size, and color
+•Character, paragraph, and line spacing
+•Horizontal scaling
+These text properties are automatically applied to the text that you add at the point of click.
+You can change the text properties using the options under Format in the right pane.
+5Type the text.
+6To resize the text box, drag a selection handle.
+7To move the text box, place the pointer over the line of the bounding box (avoid the selection handles). When the 
+cursor changes to Move pointer 
+, drag the box to the new location. To maintain alignment with the other list 
+items, press Shift as you drag.
+28Introduction to Acrobat
+Last updated 6/13/2018
+Move, rotate, or resize a text box
+You can move or rotate text boxes on a page. The Edit Text & Images tool outlines each text box, so it is clear what text 
+is affected. Edits are confined to the page. You cannot drag a text block to another page, or move or rotate individual 
+characters or words within a text box. However, you can copy text boxes and paste them on another page.
+Resizing a text box causes the text to reflow within the new text box boundaries. It does not change the size of the text. 
+To change the font size, see 
+Edit or format text in a PDF
+. As with other text edits, resizing is limited to the current page. 
+Text does not flow to the next page.
+1Choose Tools
+ > Edit PDF > Edit
+.2Click the text box you want to move, rotate, or resize.
+A bounding box with selection handles surrounds the text box you clicked.
+3Do any of the following:
+Move
+ Place the pointer over the line of the bounding box (avoid the selection handles). When the cursor changes 
+to Move pointer 
+, drag the box to the desired location. Hold down the Shift key as you drag to constrain the 
+movement vertically or horizontally.
+Rotate
+ Place the pointer just outside a selection handle. When the cursor changes to the Rotation pointer 
+, drag in the direction you want it to rotate.
+Resize Place the pointer over a selection handle. When the cursor changes to the Resize pointer 
+, drag the 
+handle to resize the text block.
+29Introduction to Acrobat
+Last updated 6/13/2018
+Add, edit, or move text on noni
+nteractive forms or when signing
+Organizations sometimes provide PDF versions of their paper forms without interactive form fields (called "flat 
+forms"). Use the Add Text tool on the 
+Comment
+ toolbar to fill in noninteractive forms or to add text to documents you 
+need to sign. Text added with this tool is actually a comment and does not change the original PDF.
+Add text to a noninteractive (flat form) PDF
+1Choose 
+Tools
+ > Comment
+ > Add Text Comment
+.2Click where you want to add text.
+3In the 
+Text Properties
+ toolbar, select the color, font, and font size for the text you want to add.
+Text Properties toolbar
+Note: 
+If you don't see the Text Properties toolbar, click the Text Properties icon in the Comment toolbar or press 
+CTRL+E.
+4Type the text. Press Enter to add a second line.
+5Edit text in a noninteractive (flat form) PDF
+To change the text properties, select the text you want to edit. Use any of the following tools in the Text Properties 
+toolbar:
+Use the various options in the toolbar to change text properties
+Note: 
+If you don't see the Text Properties toolbar, click the Text Properties icon in the Comment toolbar or press CTRL+E.
+•Choose a font from the
+ Font
+ menu.
+•Choose a font size from the pop-up menu.
+•Choose a color from the
+ Text Color
+ menu.
+30Introduction to Acrobat
+Last updated 6/13/2018
+•To change the line spacing (leading), click the Decrease Character Spacing button or the 
+Increase
+ Character
+ Spacing
+ button.Move or resize text in a noninteractive (flat form) PDF
+To move or resize a text block, choose 
+Tools
+ > Comment > Comment List (in the right pane). In the comment list, click 
+the comment containing the text you want to move or resize. When the bounding box appears, drag the text block or 
+one of its corners.
+Rotate, move, delete, and renumber PDF pages
+To manipulate pages in a PDF, make sure that you have permissions to edit the PDF. To check, choose File > Properties, 
+and then click the Security tab. Permissions appear in the Document Restrictions Summary.
+This document provides instructions for Acrobat DC. If you're using Adobe Reader DC, see 
+What can I do with Adobe 
+Reader DC
+. If you're using Acrobat XI, see 
+Acrobat XI Help
+ . And, if you're using Acrobat 7, 8 , 9, or X see 
+previous 
+versions
+ of Acrobat Help.
+Rotate pages
+You can rotate all or selected pages in a document. Rotation is based on 90° increments. You can rotate pages using the 
+
+rotate tools in the Page Thumbnails pane or using the Rotate option (described below).
+1Open the PDF in Acrobat DC, and then choose 
+Tools
+ > Organize Pages
+ or choose 
+Organize Pages
+ from the right 
+pane.
+The Organize Pages toolset is displayed in the secondary toolbar.
+The Organize Pages toolset in the secondary toolbar.
+2In the secondary toolbar, specify the page range on which you want to apply the rotation.
+You can choose 
+Even Pages
+, Odd Pages
+, Landscape Pages
+, Portrait Pages
+, or 
+All Pages
+, or you can enter the page 
+number you want to perform the operation on.
+3After specifying the page range, for Direction, select either counterclockwise 90 Degrees 
+or clockwise 90 
+Degrees 
+.45You can also apply the page rotation on a specific page 
+by clicking the counterclockwise or clockwise rotation 
+buttons displayed in the page thumbnail view. 
+631Introduction to Acrobat
+Last updated 6/13/2018
+Page rotation in the page thumbnail view.
+To temporarily change your view of the page, choose View > Rotate View > Clockwise or Counterclockwise. The 
+original page orientation is restored the next time you open the PDF.
+Extract pages
+Extraction
+ is the process of reusing selected pages of one PDF in a different PDF. Extracted pages contain not only the 
+content but also all form fields, comments, and links associated with the original page content. 
+You can leave the extracted pages in the original document or remove them during the extraction process—comparable 
+
+to the familiar processes of cutting-and-pasting 
+or copying-and-pasting, but on the page level. 
+Note: 
+Any bookmarks or article threading associated with pages are not extracted.
+1Open the PDF in Acrobat DC, and then choose Tools >
+ Organize Pages
+ or choose
+ Organize Pages
+ from the right 
+pane.
+The Organize Pages toolset is displayed in the secondary toolbar.
+2In the secondary toolbar, click 
+Extract
+.A new toolbar appears below the secondary toolbar with the commands specific to the Extract operation.
+Choose Extract from the new toolbar to pull one or more pages from the PDF file. 
+3Specify the range of pages to extract.
+You can choose 
+Even Pages
+, Odd Pages
+, Landscape Pages
+, Portrait Pages
+, or 
+All Pages
+, or you can enter the page 
+number you want to perform the operation on.
+4In the new toolbar, do one or more of the following before you click 
+Extract
+:32Introduction to Acrobat
+Last updated 6/13/2018
+5•To remove the extracted pages from the original document, select Delete Pages After Extracting.
+•To create a single-page PDF for each extracted page, select Extract Pages As Separate Files.
+•To leave the original pages in the document and create a single PDF that includes all of the extracted pages, leave 
+both check boxes deselected.
+The extracted pages are placed in a new document.
+Note: 
+The creator of a PDF document can set the security to prevent the extraction of pages. To view the security settings 
+for a document, choose File > Properties, and select the Security tab.
+Split PDFs into multiple documents
+You can split one or more documents into multiple smaller documents. When splitting a document, you can specify 
+
+the split by maximum number of pages, maximum file size, or top-level bookmarks.
+1Open the PDF in Acrobat DC, and then choose 
+Tools
+ > Organize Pages
+ or choose
+ Organize Pages
+ from the right 
+pane.
+The Organize Pages toolset is displayed in the secondary toolbar.
+2In the secondary toolbar, click 
+Split
+.A new toolbar appears below the secondary toolbar with the commands specific to the Split operation.
+Choose Split in the secondary toolbar to see the document splitting options. 
+3In the 
+Split By
+ drop-down list, select the criteria for dividing the document:
+4Number Of Pages
+ Specify the maximum number of pages for each document in the split.
+File Size
+ Specify the maximum file size for each document in the split.
+Top-level Bookmarks
+ If the document includes bookmarks, creates one document for every top-level bookmark.
+5To specify a target folder for the split files and filename preferences, click Output Options. Specify the options as 
+needed, and then click OK.
+6(Optional) To apply the same split to multiple documents, click 
+Split Multiple Files
+. In the 
+Split Documents
+ dialog 
+box, click Add Files, and choose Add Files,Add Folders, or Add Open Files. Select the files or folder, and then click 
+OK.Move or copy pages
+You can use page thumbnails in the Navigation pane or the Document area to copy or move pages within a document 
+and to copy pages between documents.
+33Introduction to Acrobat
+Last updated 6/13/2018
+Move or copy a page within a PDF, using page thumbnails
+1Open the PDF in Acrobat DC, and then choose 
+Tools
+ > 
+Organize Pages
+ or choose
+ Organize Pages
+ from the right 
+pane.
+1The Organize Pages toolset is displayed in the secondary toolbar and the page thumbnails are displayed in the 
+
+Document area.
+The Document area changes to display page thumbnails.
+2Select one or more page thumbnails.
+34Do one of the following:
+•To move a page, drag the page number box of the corresponding page thumbnail or the page thumbnail itself to 
+the new location. A bar appears to show the new position of the page thumbnail. The pages are renumbered.
+•To copy a page, Ctrl-drag the page thumbnail to a second location.
+Note: 
+You can also perform the above operations in the left
+ navigation pane by clicking the Page Thumbnails 
+button.
+34Introduction to Acrobat
+Last updated 6/13/2018
+Copy a page between two PDFs, using page thumbnails
+1Open both PDFs, and display them side by side.
+Note: 
+Choose Window > Tile > Vertically to display the PDFs side by side. 
+ 2Open the Page Thumbnails panels for both PDFs.
+Note: 
+Click the Page Thumbnails button in the left navigation pane to open the Page Thumbnail panel. 
+ 3Drag the page thumbnail into the Page Thumbnails panel of the target PDF. The page is copied into the document, 
+and the pages are renumbered.
+Delete or replace pages
+You can replace an entire PDF page with another PDF page. Only the text and images on the original page are replaced. 
+Any interactive elements associated with the original page, such as links and bookmarks, are not affected. Likewise, 
+bookmarks and links that may have been previously associated with the replacement page do not carry over. 
+Comments, however, are carried over and are combined with any existing comments in the document.
+After you delete or replace pages, it’s a good idea to use the Reduce File Size command to rename and save the 
+restructured document to the smallest possible file size.
+A page before and after it is replaced. The page’s bookmarks and links remain in the same
+ locations.
+Delete pages, using the Delete command
+Note: 
+You cannot undo the Delete command.
+1Choose Tools >
+ Organize Pages
+ or choose
+ Organize Pages
+ from the right pane.
+The Organize Pages toolset is displayed in the secondary toolbar, and the page thumbnails are displayed in the 
+Document area.
+2Specify the range of pages to delete.
+35Introduction to Acrobat
+Last updated 6/13/2018
+You can choose 
+Even Pages
+, Odd Pages
+, Landscape Pages
+, Portrait Pages
+, or 
+All Pages
+, or you can enter the page 
+number(s) you want to delete.
+3In the secondary toolbar, click 
+Delete Pages
+, and click 
+OK to confirm.
+4You cannot delete all pages; at least one page must remain in the document.
+If you select Use Logical Page Numbers in the Page Display panel of the Preferences dialog box, you can enter a page 
+number in parentheses to delete the logical equivalent of the page number. For example, if the first page in the 
+document is numbered i, you can enter (1) in the Enter Page Range drop-down list, and the page is deleted.
+Delete pages, using page thumbnails
+1Choose 
+Tools
+ > Organize Pages
+ or choose
+ Organize Pages
+ from the right pane.
+The Organize Pages toolset is displayed in the secondary toolbar, and the page thumbnails are displayed in the 
+Document area.
+2Select a page thumbnail you want to delete and click the 
+icon to delete the page.
+34Alternatively, click the 
+Page Thumbnails
+ button in the left navigation pane to open the 
+Page Thumbnail
+ panel, then 
+select the page or group of pages you want to delete.
+5Click 
+Delete Pages
+ at the top of the 
+Page Thumbnails
+ panel.
+Replace the contents of a page
+1Open the PDF that contains the pages you want to replace.
+2Choose Tools >
+ Organize Pages
+ or choose
+ Organize Pages
+ from the right pane.
+The Organize Pages toolset is displayed in the secondary toolbar.
+3In the secondary toolbar, click 
+Replace
+.The Select Files With New Pages dialog box appears.
+4Select the document containing the replacement pages, and click 
+Open
+.5Under Original, enter the pages to be replaced in the original document.
+6Under 
+Replacement
+, enter the first page of the replacement page range. The last page is calculated based on the 
+number of pages to be replaced in the original document.
+78Click 
+OK.936Introduction to Acrobat
+Last updated 6/13/2018
+Replace pages using a page thumbnail
+1Open the PDF that contains the pages you want to replace, and then open the PDF that contains the replacement 
+pages.
+2In the Page Thumbnails panel of the PDF that contains the replacement pages, select a page or group of pages:
+•Select the page number boxes of the page thumbnails that you want to use as replacement pages.
+•Shift-click to select multiple page thumbnails. Ctrl-click to add to the selection.
+•Drag a rectangle around a group of page thumbnails.
+3Ctrl+Alt+drag the selected page thumbnails onto the Pages panel of the target document. Release the mouse button 
+
+when the pointer is directly over the page number box of the first page thumbnail you want to replace so that these 
+pages become highlighted.
+The pages you selected in the first document replace the same number of pages in the second document, starting at 
+the page number you selected to drop the new pages
+ on.
+Renumber pagesThe page numbers on the document pages do not always match the page numbers that appear below the page 
+
+thumbnails and in the Page Navigation toolbar. Pages are numbered with integers, starting with page 1 for the first page 
+of the document. Because some PDFs may contain front matter, such as a copyright page and table of contents, their 
+body pages may not follow the numbering shown in the Page Navigation toolbar.
+Printed page numbering (top) compared to logical page numbering (bottom)
+You can number the pages in your document in a variety of ways. You can specify a different numbering style for group 
+of pages, such as 1,
+ 2, 3, or i,
+ ii, iii, or a,
+ b, c. You can also customize the numbering system by adding a prefix. For 
+example, the numbering for chapter 1 could be 1-1, 1-2, 1-3, and so on, and for chapter 2, it could be 2-1, 2-2, 2-3, and 
+
+so on.
+Using the Number Pages command affects only the page thumbnails on the Pages panel. You can physically add new 
+page numbers to a PDF using the headers and footers feature.
+1In the left navigation pane, click the 
+Page Thumbnails
+ button to open the Page Thumbnails panel.
+12Choose Page Labels from the Options menu.
+37Introduction to Acrobat
+Last updated 6/13/2018
+The Number Labels command is in the Options menu of the Page Thumbnails panel.
+3Specify a page range. (Selected refers to pages selected in the Page Thumbnails panel.)
+4Select one of the following, and then click OK:
+Begin New Section
+ Starts a new numbering sequence. Choose a style from the pop-up menu, and enter a starting 
+page number for the section. Specify a Prefix, if desired.
+Extend Numbering Used In Preceding Section To Selected Pages
+ Continues the numbering sequence from 
+previous pages without interruption.
+Convert or export PDFs to other file formats
+Easily export or convert one or more PDFs to different file formats, including Microsoft Word, Excel, and PowerPoint. 
+The available formats include both text and image formats. (For a full list of conversion options, see 
+File format options
+ .)This document provides instructions for Acrobat DC and Acrobat 2017.
+ If you're using Acrobat XI, see 
+Acrobat XI Help
+ .38Introduction to Acrobat
+Last updated 6/13/2018
+Convert PDFs to Word, RTF, spreadsheets, PowerPoint, or other formats
+Note: 
+You cannot export PDF Portfolios, or PDFs within them, to other file formats.
+1Open the PDF in Acrobat, and then choose 
+Tools
+ > Export PDF.
+ The various formats to which you can export the PDF file are displayed.
+ Choose the format to which you want to export your PDF.
+You can also choose File > Export To > [File Type] to export the PDF file to a desired format. 
+  2Select the file format to which you want to export the PDF file and a version (or format), if available. For example, 
+if you choose to export the PDF file to Word format, you will get an option to export the PDF into Word Document 
+
+(.docx) or Word 97-2003 Document (.doc) version. 
+ Note: 
+You can configure the conversion settings by clicking the gear icon 
+adjacent to the selected file format. 
+Conversion settings can also be edited by selecting the Convert From PDF category in the Preferences dialog box.
+3Click 
+Export
+.45 The Export dialog box is displayed.
+639Introduction to Acrobat
+Last updated 6/13/2018
+Export your PDF document to a local folder or Adobe Document Cloud. 
+7In the 
+Export
+ dialog box, select a location where you want to save the file.
+89Click 
+Save
+ to export the PDF to the selected file format.
+10By default, the source filename is used with the new extension, and the exported file is saved in the same folder as 
+the source file.
+Note: 
+When you save a PDF in an image format, each page is saved as a separate file, and each filename is appended 
+with the page number.
+Conversion options
+You can configure conversion options before you save the file. By default, the conversion options specified under 
+
+Preferences
+ are used.
+ 1Choose 
+Edit
+ > Preferences
+ > Convert From PDF
+.2Choose a format from the 
+Converting From PDF
+ list, and then click 
+Edit Settings
+.3Choose the conversion settings, and then click 
+OK.Export images in a PDF to another format
+In addition to saving every page (all text, images, and 
+vector objects on a page) to an image format using the 
+File
+ > Export To 
+> Image
+ > [Image Type] command, you can export each image in a PDF to a separate image file.
+Note: 
+You can export raster images, but not vector objects.
+1Open the PDF in Acrobat, and then choose 
+Tools
+ > Export PDF
+.The various formats to which you can export the PDF file are displayed.
+2Click 
+Image
+ and then choose the image file format that you want to save the images in.
+340Introduction to Acrobat
+Last updated 6/13/2018
+Choose the format that you want to save the exported images in. 
+4To configure the conversion settings for the selected file format, click the gear icon 
+.5In the 
+Export All Images As 
+[selected file format]
+ Settings
+ dialog box, specify the 
+File Settings
+, Color 
+Management
+, Conversion
+, and 
+Extraction
+ settings for the file type.
+67In the 
+Extraction
+ settings, for 
+Exclude Images Smaller Than
+, select the smallest size of image to be extracted. Select 
+No Limit
+ to extract all images.
+89Click 
+OK to return to the return to the 
+Export Your PDF To Any Format
+ screen.
+1011Select the 
+Export All Images
+ option to extract and save only the images from the PDF file. 
+12Note: 
+If you do not select the Export All Images option, all pages within the PDF are saved in the selected image file 
+format. 
+ 13Click 
+Export
+.1415 The Export dialog box is displayed.
+1617In the 
+Export
+ dialog box, select a location where you want to save the file.
+1819Click 
+Save
+ to save only the images from the PDF to the selected file format.
+2041Introduction to Acrobat
+Last updated 6/13/2018
+Export selections from 
+a PDF to another format
+If you need just a part of the PDF file in another format, you don’t need to convert the entire file and then extract the 
+relevant content. You can select text in a PDF file and save it in one of the supported formats: DOCX, DOC, XLSX, RTF, 
+XML, HTML, or CSV.
+1Use the Select tool and mark the content to save.
+2Right-click the selected text and choose 
+Export Selection As
+.Right-click the selected text, and choose Export Selection As from the pop-up menu.
+3Select a format from the 
+Save As Type
+ list and click 
+Save
+.Navigating PDF pages
+Opening pages in a PDF
+Depending on the PDF you open, you have to move forward through multiple pages, see different parts of the page, or 
+change the magnification. There are many ways to navigate, but the following items are commonly used:
+Next and Previous:
+ The Next Page
+ andPrevious Page
+ buttons appear in the Page Navigation 
+toolbar. The text box next to them is also interactive, so you can type a page number and press Enter to go directly to 
+
+that page.
+Scroll bars:
+ Vertical and horizontal scroll bars appear to the right and bottom of the document pane whenever the view 
+does not show the entire document. To view other pages or different areas of the page, click the arrows or drag.
+Select & Zoom toolbar:
+ This toolbar contains buttons and controls for changing the page magnification.
+Page Thumbnails panel:
+ The Page Thumbnails button 
+on the left side of the work area opens the navigation 
+pane to the Page Thumbnails panel, which displays thumbnail images of each page. To open that page in the document 
+
+pane, click a page thumbnail.
+Note: 
+If you do not see these items, choose View > Show/Hide > Toolbar Items > Reset Toolbars.
+42Introduction to Acrobat
+Last updated 6/13/2018
+Page through a document
+There are many ways to turn pages in a PDF. Many people use the buttons on the Page Navigation toolbar, but you can 
+also use arrow keys, scroll bars, and other features to move forward and backward through a multipage PDF.
+The Page Navigation toolbar opens by default. The default toolbar contains frequently used tools: the Show Next 
+Page
+, Show Previous Page
+, and Page Number. Like all toolbars, the Page Navigation toolbar can 
+be hidden and reopened by choosing it in the Toolbars menu under the View menu. You can display more tools on the 
+
+Page Navigation toolbar by right-clicking the toolbar and ch
+oosing an individual tool, Show All Tools, or More Tools 
+and then selecting and deselecting tools in the dialog box.
+Move through a PDF
+Do one of the following:
+•Click the Previous Page
+ or Next Page
+ button in the toolbar.
+•Choose View > Page Navigation > [location].
+•Choose View > Page Navigation > Page, type the page number in the Go To Page dialog box and then click OK.
+ •Press the Page Up and Page Down keys on the keyboard.
+Jump to a specific page
+Do one of the following:
+•From Single Page or Two-Up page display view, drag the vertical scroll bar until the page appears in the small 
+pop-up display.
+•To replace the one currently displayed in the Page Navigation toolbar, type the page number
+ and press Enter.
+43Introduction to Acrobat
+Last updated 6/13/2018
+Note: 
+If the document page numbers are different from the actual 
+page position in the PDF file, the page’s position within 
+the file appears in parentheses after the assigned page number in the Page Navigation toolbar. For example, if you assign 
+numbering for a file that is an 18-page chapter to begin with page 223, the number shown when the first page is active 
+is 223 (1 of 18). You can turn off logical page numbers in the Page Display preferences. See 
+Renumber pages and 
+Preferences for viewing PDFs.
+ Jump to bookmarked pages
+Bookmarks provide a table of contents and usually represent the chapters and sections in a document. Bookmarks 
+appear in the navigation pane.
+44Introduction to Acrobat
+Last updated 6/13/2018
+Bookmarks panel
+A Bookmarks button  
+B Click to display bookmark options menu  
+C Expanded bookmark  
+1Click the Bookmarks button, or choose View
+ > Show/Hide > Navigation Panes
+ > Bookmarks.
+2To jump to a topic, click the bookmark. Expand or collapse bookmark contents, as needed.
+Note: 
+Depending on how the bookmark was defined, clicking it 
+does not take you to that location but performs some 
+other action instead.
+If the list of bookmarks disappears when you click a bookma
+rk, click the Bookmarks button to display the list again. 
+If you want to hide the Bookmarks button after you click 
+a bookmark, select Hide After Use from the options menu.
+Use page thumbnails to jump to specific pages
+Page thumbnails
+ provide miniature previews of document pages. Yo
+u can use thumbnails in the Page Thumbnails panel 
+to change the display of pages and to go to other pages. The red page-view box in the page thumbnail indicates which 
+area of the page appears. You can resize this box to change the zoom percentage.
+1To display the
+ Page Thumbnails
+ panel, click the Page Thumbnails button or choose View
+ > Show/ Hide > Navigation 
+Panes
+ > Page Thumbnails
+2To jump to another page, click its thumbnail.
+Automatically scroll through a document
+Automatic scrolling advances your view of the PDF at a steady rate, moving vertically down the document. If you 
+
+interrupt the process by using the scroll bars to move back or forward to another page or position, automatic scrolling 
+continues from that point forward. At the end of the PDF, automatic scrolling stops and does not begin again until you 
+choose automatic scrolling again.
+1Choose View > Page Display > Automatically Scroll.
+2Press Esc to stop scrolling.
+45Introduction to Acrobat
+Last updated 6/13/2018
+Retrace your viewing path
+You can find PDF pages that you viewed earlier by retracing your viewing path. It’s helpful to understand the difference 
+between previous and next pages and previous and next views. 
+•Previous and next pages refer to two adjacent pages, before and after the currently active page.
+•Previous and next view refer to your viewing history. For example, if you jump forward and backward in a 
+
+document, your viewing history retraces those steps, showing you the pages you viewed in the reverse order that 
+you viewed them.
+1Choose View > Page Navigation > Previous View 
+.2To continue seeing another part of your path, do either of the following:
+•Repeat step 1.
+•Choose View > Page Navigation > Next View
+.Note: 
+You can make the Previous View button
+  and Next View button 
+available in the toolbar 
+area by right-clicking the Page Navigation toolbar and choosing them on the context menu, or choosing Show All Tools.
+Navigate with links
+Links can take you to another location in the current document, to other PDF documents, or to websites. Clicking a 
+link can also open file attachments and play 3D content, movies, and sound clips. To play these media clips, you must 
+have the appropriate hardware and software installed.
+The person who created the PDF document determines what links look like in the PDF. 
+Note: 
+Unless a link was created in Acrobat using the Link tool, you must have the Create Links From URLs option selected 
+in the General preferences for a link to work correctly.
+1Choose the Select tool.
+2Position the pointer over the linked area on the page until the pointer changes to the hand with a pointing finger. A 
+
+plus sign (+) or a 
+w appears within the hand if the link points to the web. Then click the link.
+PDFs with file attachments
+If you open a PDF that has one or more attached files, the Attachments panel automatically opens, listing the attached 
+files. You can open these files for viewing, edit the attachments, and save your changes, as permitted by the document 
+authors.
+If you move the PDF to a new location, the attachments automatically move with it.
+Article threads
+In PDFs, articles are optional electronic threads that the PDF author defines within that PDF. Articles lead readers 
+
+through the PDF content, jumping over pages or areas of the page that are not included in the article. It is the same way 
+
+that you skim through a traditional newspaper or magazine, following one specific story and ignoring the rest. When 
+you read an article, the page view zooms in or out so that the current part of the article fills the screen.
+Open and navigate an article thread
+1Click the Hand tool on the Common Tools toolbar.
+2To open the Articles panel, choose View > Show/ Hide > Navigation Panes > Articles
+46Introduction to Acrobat
+Last updated 6/13/2018
+Note: 
+You cannot open the Articles panel if you are viewing the PDF inside a web browser. Instead, open the PDF in 
+Acrobat.
+3To go to the beginning of that article, double-click the Article icon. The icon changes to the Follow Article 
+
+pointer
+ .Note: 
+If the Articles panel is blank, then the author
+ has not defined any article threads for this PDF.
+4With the article thread open, do any of the following:
+•To scroll through the article one pane at a time, press Enter or click in the article.
+•To scroll backward through the article one pane at a time, Shift-click in the article, or press Shift+Enter.
+•To go to the beginning of the article, Ctrl-click within the article.
+5At the end of the article, click in the article again.
+The previous page view is restored, and the pointer changes to the End Article pointer
+ .Exit a thread before the end of the article
+1Make sure that the Hand tool is selected.
+2Shift+Ctrl-click the page.
+The previous page view is restored.
+Workspace basics
+Workspace overview
+Adobe Acrobat user interface has three views - Home, Tools, and Document.
+Further, the Document view can have one of the two interfaces - Single Document Interface (view one document at a 
+time) or Multiple Document Interface (tabbed interface for multiple PDFs viewing).
+Home
+ This is the gateway or the landing page when you don’t have a PDF opened in Acrobat.
+Tools
+ This is the go to place to discover the tools that’s available in Acrobat. All Acrobat tools are shown in this view.
+Document
+ This is the default view whenever a document is opened in Acrobat. When you open multiple documents, 
+each document opens as a tab in the same application window.
+Home view
+This is the gateway or the landing page when you don’t have a PDF opened in Acrobat. When you launch Acrobat or 
+Reader, you see a welcome message with the Learn More button pointing to a quick introduction document.
+The Home view displays file lists and storage accounts.
+•File Lists: Shows Recent and Sent files views. All your recently accessed files are displayed in the Recent files view, 
+
+and all the files that you sent using Adobe Send & Track and Send for Signature are displayed in the Sent files view.
+•Storage: It lists various places or accounts from which you can open and work on files from within Acrobat or Reader 
+- My Computer, Document Cloud, and Add Account(a SharePoint or Dropbox account).
+•47Introduction to Acrobat
+Last updated 6/13/2018
+Recent files view
+In the Recent files view, you can see your recently used files. For a selected file, a details panel appears on the right 
+showing a thumbnail preview of the file, its location, and a list of frequently used tools.
+Home > Recent files view
+For local files, you can click the location in the details panel to open the folder in Explorer. However, you cannot open 
+
+the location if it’s Adobe Document Cloud or Dropbox.
+The 
+Remove from Recent
+ option in the details panel allows you to selectively remove files from the Recent files list.
+Sent files view
+In the Sent
+ files view, you can track and manage your sent files online. The available options are displayed when you 
+choose a file in the right pane. You can also manage your files sent for signature using the
+ Manage Document Sent for 
+Signature
+ link at the bottom in the right pane.
+48Introduction to Acrobat
+Last updated 6/13/2018
+Home > Sent files view
+Storage - Document Cloud, Dropbox, and SharePoint
+Storage lists offline and online places from where you can access your files. Apart from your local computer, you can 
+access files:
+•Stored securely in Adobe Document Cloud using the 
+Document Cloud
+ link in the left pane.
+•From your online accounts, such as Dropbox and Microsoft SharePoint. You can add SharePoint or Dropbox 
+accounts using the 
+Add Account
+ link in the left pane. For more information, see 
+Connect your online storage 
+accounts to access files in Acrobat
+.•Tools center
+This is the go to place to navigate and discover tools available in Acrobat/Reader. All the tools are listed by
+ categories. 
+When you choose a tool, the tool-specific commands or toolbar appears in the document view if a file is opened.
+You can also open some tools even without opening a document. If the tool requires a document to be open, choosing 
+
+a tool prompts you to select a document.
+49Introduction to Acrobat
+Last updated 6/13/2018
+Tools center lists all tools by categories. Shortcuts of tools appear in the right pane.
+Note: 
+A new custom tool is displayed in the 
+Customize
+ category. All third-party plug-ins are displayed in a new category 
+named 
+Add-ons
+.Add or remove shortcuts of tools in the right pane
+To add a shortcut of a tool in the right pane, click the 
+Add
+ button below the tool name.
+To remove the shortcut of a tool from the right pane, click the Down Arrow button next to Open below the tool name, 
+and then choose 
+Remove Shortcut
+.50Introduction to Acrobat
+Last updated 6/13/2018
+Alternatively, to remove the shortcut, click the cross button for the shortcut in the right pane.
+Document view
+By default, you see tabbed interface for multiple PDFs vi
+ewing. When you open multiple PDFs, each PDF opens as a 
+tab in the same application window. You can switch among the tabs from the top – tab name shows the name of the file 
+
+opened in the tab. A previous button and a next button are displayed towards right to navigate through document tabs 
+when the number of documents are high and don’t fit the document view.
+The menu bar and the toolbar are visible at the top of the work area. The work area for the stand-alone application 
+includes a document pane in the middle, a navigation pane on the left, and tools or task pane on the right side. The 
+document pane displays PDFs. The navigation pane on the left side helps you browse through the PDF and perform 
+other options on PDF files. Toolbars near the top of the window provide other controls that you can use to work with 
+PDFs.
+51Introduction to Acrobat
+Last updated 6/13/2018
+Tabbed document view for multiple PDFs viewing
+If you want to switch off the tabbed view and go back to the single document view, go to Edit > Preferences > General, 
+and then clear the checkbox for the
+ preference - 
+Open documents as new tabs in the same window (requires restart)
+. Restart Acrobat.
+Menus and context menus
+Ordinarily, it’s a good idea to keep the Acrobat menus visible so that they are available as you work. It is possible to hide 
+
+them, using the View > Show/Hide > Menu Bar command. However, the only way to display and use them again is by 
+
+pressing F9 (Windows) or Shift+Command+M (Mac OS).
+Unlike the menus that appear at the top of your screen, context-sensitive menus display commands related to the active 
+
+tool or selection. You can use context menus as a quick way to choose commonly used commands. For example, when 
+
+you right-click the toolbar area, that context menu displays the same commands as the View > Show/Hide > Toolbar 
+Items menu.
+1Position the pointer over the document, object, or panel.
+2Click the right mouse button.
+Note: 
+(Mac
+ OS) If you don’t have a two-button mouse, you can display a context menu by pressing the Control key as you 
+click with the mouse.
+52Introduction to Acrobat
+Last updated 6/13/2018
+Toolbars
+Initially, you may not see various tools in the toolbar. You can add tools to the toolbar for easy access.
+To add tools in the toolbar, right-click an empty space in the toolbar and choose the tools that you want to appear in 
+the toolbar.
+Quick tools
+You can add tools you use frequently from the Tools to the Quick Tools toolbar.
+1Right-click an empty space in the toolbar and choose 
+Customize Quick Tools
+.2In the Customize Quick Tools dialog box, do any of the following:
+•To add a tool, select it in the left pane and click the Up Arrow 
+icon.
+•To remove a tool, select its icon and click the Delete 
+icon.
+•To change a tool’s position in the toolbar, select its icon and click either 
+or 
+.•To add a vertical line to separate groups of tools in the toolbar, click 
+.Common Tools
+You can add tools to the Common Tools toolbar.
+1Right-click an empty space in the toolbar.
+2Select a tool from the menu.
+3To remove a tool from the toolbar, right-click the tool and deselect it from the menu.
+Hide and show toolbars
+When your work does not involve using the tools in a toolbar, you can close the toolbar to tidy up the work area. If 
+several PDFs are open, you can customize the toolbars for each PDF independently. The different customized states 
+
+persist as you switch between PDFs.
+•To hide all toolbars, choose 
+View
+ > Show/Hide
+ > Toolbar Items > 
+Hide Toolbars
+.•To return toolbars to their default configuration, choose 
+View
+ > Show/Hide
+ > Toolbar Items > Reset Toolbars.
+53Introduction to Acrobat
+Last updated 6/13/2018
+If you have hidden all the toolbars, you can show them again by pressing F8.
+ Select a tool
+By default, the Select tool
+  is active when Acrobat opens, because it is the most versatile tool.
+Do one of the following:
+•Select a tool in a toolbar.
+•Choose View > 
+Show/Hide
+ > Toolbar Items > [toolbar name] > [tool].
+Create custom tools
+You can assemble your own customized collection of Acrobat features, then save it and share with others. It allows you 
+to quickly access the tools and commands you use the most. 
+ 1Choose 
+Tools
+ > Create Custom Tool
+.2To customize the Toolbar, do any of the following:
+•To add a tool to the toolbar, click the panel on the left, select the tool, and click the Add To Toolbar
+  icon.
+•To remove a tool from the toolbar set, select its icon, and click the Delete 
+icon.
+•To change a tool’s position in the toolbar, se
+lect its icon, and click either the move left 
+or move right 
+icon.
+•To add a vertical line to separate groups of tools in the toolbar, click the Add Vertical Line
+  icon.
+54Introduction to Acrobat
+Last updated 6/13/2018
+Create Custom Tool dialog box
+A Arrange or delete tools in the Tool's Toolbar  
+B Add custom panels, instructions, or divider line between tools  
+C Rename, arrange, or delete 
+tools  
+D Add to Tool's Toolbar above or Custom Tools set on the right  
+3To customize tools in the Custom set, do any of the following:
+4•To add a tool in the Custom set, click the panel on the left, and then click the Add To Custom set 
+icon.
+•To create your own panel, click the Add Section 
+icon on the right. Give the panel a name, and click 
+Save.
+•To add a tool to a panel, select the panel on the right, select the tool on the left, and click the Add To Custom set 
+icon.
+•To remove a tool from the set, select its icon and click the Delete 
+icon.
+•To change the position of a tool, select it on the right, and click the Up 
+or Down 
+Arrow 
+icons.
+•To add a horizontal line to separate groups of tools, click the Add Divider 
+icon.
+•To edit instructions or section name, select it, and click the Edit 
+icon.
+55Introduction to Acrobat
+Last updated 6/13/2018
+5When your tool set is complete, click 
+Save
+, type its name, and click 
+Save
+ again.
+6The created custom tool is added to the Tools center. To open the tool, choose 
+Tools
+ > [custom tool name].
+Edit, delete, rename, or share a custom tool
+You can edit, rename, copy, delete, rearrange, or share tool sets. You can specify the order the tool sets appear in the 
+Customize menu by moving them up or down in the list. You can share tool sets with your workgroup using the Import 
+and Export options.
+•Choose 
+Tools
+ > [custom tool name] > click the Down Arrow button and then choose an appropriate option.
+Options to manage a custom tool
+Navigation pane
+The navigation pane is an area of the workspace that can display different navigation panels. Various functional tools 
+can appear in the navigation pane. For example, the Page Thumbnails panel contains thumbnail images of each page; 
+clicking a thumbnail opens that page in the document.
+When you open a PDF, the navigation pane is closed by default. Buttons along the left side of the work area provide easy 
+access to various panels, such as the Page Thumbnails button 
+and the Bookmarks panel button 
+. When Acrobat is open but empty (no PDF is open), the navigation pane is unavailable.
+Show or hide the navigation pane
+1To open the navigation pane, do one of the following:
+•Click any panel button on the left side 
+of the work area to open that panel.
+•Choose View
+ > Show/Hide > Navigation Panes > Show Navigation Pane.
+2To close the navigation pane, do one of the following:
+•Click the button for the currently open panel in the navigation pane.
+•Choose View
+ > Show/Hide > Navigation Panes > Hide Navigation Pane.
+Note: 
+The creator of the PDF can control the contents of some navigation panels and may make them empty.
+Change the display area for navigation panels
+All navigation panels, such as Bookmarks, appear 
+in a column on the left 
+side of the work area.
+•To change the width of the navigation pane, drag its right border.
+•To view a different panel, on the left side of the navigation pane, select the button for the panel 
+56Introduction to Acrobat
+Last updated 6/13/2018
+Options in a navigation panel
+All navigation panels have an options menu 
+in the upper-left corner. The commands available in these 
+menus vary.
+Some panels also contain other buttons that affect the items in the panel. Again, these buttons vary among the different 
+panels, and some panels have none.
+Set preferences
+Many program settings are specified in the Preferences dialog box, including settings for display, tools, conversion, 
+signatures, and performance. Once you set preferences, they remain in effect until you change them.
+1Choose 
+Edit
+ > Preferences (Windows) or Acrobat /
+ Adobe Acrobat Reader
+ > Preferences (Mac OS).
+2Under Categories, select the type of preference you want to change.
+Restore (re-crea
+te) preferences
+Restore the Acrobat Preferences folder (Windows)
+Restore the Acrobat Preferences folder to eliminate prob
+lems that damaged preferences cause. Most preference 
+problems are caused by these file-based preferences, although most Acrobat preferences are stored within the registry.
+Note: 
+This solution removes custom settings for Collaboration, JavaScripts, Security, Stamps, Color Management, Auto Fill, 
+Web Capture, and Updater.
+1Quit Acrobat.
+2In Windows Explorer, go to the Preferences folder:
+•(Windows 10, 8, or 7)
+ C:\Users\[username]\AppData\Roaming\Adobe\Acrobat\[version]
+In Windows 10 or 8, if you cannot see the AppData folder, click the 
+View
+ menu on the ribbon in Windows Explorer 
+and select the 
+Hidden items
+ checkbox under 
+Show/Hide
+.3Move the Preferences folder to another location (for example, C:\Temp).
+4Restart Acrobat.
+If the problem recurs after you restore the Acrobat Preferences folder, then the problem isn’t related to the Preferences 
+folder. To restore custom settings, drag the folder you moved in step 2 back to its original location. Then click Yes To 
+All to replace the new Preferences folder.
+Restore the Acrobat preferences files (Mac OS)
+Restore the Acrobat preferences files to eliminate problems caused by a damaged preferences file.
+Note: 
+Re-creating the Acrobat preferences files restores settings to their defaults.
+1Quit Acrobat.
+2Drag the following files from the Users/[Username]/Library/Preferences folder to the Desktop:
+•Acrobat WebCapture Cookies
+•com.adobe.Acrobat.Pro.plistor com.adobe.Acrobat.Pro_x86_9.0.plist
+•Acrobat Distiller Prefs and com.adobe.Acrobat.Pro.plist (if you are troubleshooting an issue with Distiller)
